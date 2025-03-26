@@ -6,7 +6,7 @@ def find_best_partition(N):
     
     A = best_d
     B = N - best_d
-    print(A, B)
+    print(A, B, "Аненко Василий Сергеевич, 020303-АИСа-о24")
 
 N = int(input())
 find_best_partition(N)
